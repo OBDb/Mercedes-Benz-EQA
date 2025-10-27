@@ -1,7 +1,7 @@
 { "commands": [
 { "hdr": "624", "rax": "5A4", "fcm1": true, "dbg": true, "cmd": {"22": "0201"}, "freq": 1,
   "signals": [
-    {"id": "EQA_AUX_V_HD", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 100, "mul": 1000, "div": 10000, "unit": "volts" }, "name": "12V system voltage, hd", "suggestedMetric": "starterBatteryVoltageV2"}
+    {"id": "EQA_AUX_V_HD", "path": "Battery", "fmt": {"bix": 16, "len": 16, "max": 100, "mul": 1000, "div": 10000, "unit": "volts" }, "name": "12V system voltage, hd", "suggestedMetric": "starterBatteryVoltage"}
   ]},
 { "hdr": "7E2", "dbg": true, "cmd": {"22": "2001"}, "freq": 1,
   "signals": [
