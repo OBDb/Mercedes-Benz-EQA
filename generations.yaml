@@ -1,0 +1,24 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mercedes-Benz_EQA"
+
+generations:
+  - name: "First Generation"
+    start_year: 2021
+    end_year: 2023
+    description: "Pre-facelift model launched February 2021. Features the original front grille design, standard LED headlights with fiber optic strip connection, and original interior layout with dual 10-inch MBUX screens. Available in EQA 250 (FWD), EQA 300 4MATIC (AWD), and EQA 350 4MATIC+ (AWD) variants."
+    platform: "Mercedes-Benz MFA2 (H243)"
+    models:
+      - "EQA 250"
+      - "EQA 300 4MATIC"
+      - "EQA 350 4MATIC+"
+
+  - name: "First Generation (2024 Facelift)"
+    start_year: 2024
+    end_year: null
+    description: "Facelift model available from Q1 2024. Features new front grille design, optional new front bumper, updated rear taillights with 3D light signature and tinted dark red appearance. Interior updates include new three-spoke steering wheel with capacitive controls, illuminated Mercedes logo trim pieces on dashboard and doors, larger infotainment screen, and new Plug & Charge system. New 18-, 19- and 20-inch alloy wheel designs available plus new colors including Spectral Blue Metallic."
+    platform: "Mercedes-Benz MFA2 (H243)"
+    models:
+      - "EQA 250"
+      - "EQA 250+"
+      - "EQA 300 4MATIC"
+      - "EQA 350 4MATIC+"
