@@ -33,15 +33,15 @@
   ]},
 { "hdr": "7E5", "dbg": true, "cmd": {"22": "6053"}, "freq": 1,
   "signals": [
-    {"id": "EQA_HV_A", "path": "Battery", "fmt": { "len": 16, "max": 100, "div": 10, "sign": true, "unit": "amps" }, "name": "HV battery amperage"}
+    {"id": "EQA_HV_A", "path": "Battery", "fmt": { "len": 16, "max": 3276.7, "min": -3276.8, "div": 10, "sign": true, "unit": "amps" }, "name": "HV battery amperage"}
   ]},
 { "hdr": "7E5", "dbg": true, "cmd": {"22": "6071"}, "freq": 1,
   "signals": [
-    {"id": "EQA_CNVRTR_REQ_V", "path": "Battery", "fmt": { "len": 16, "max": 100, "mul": 250, "div": 10000, "unit": "volts" }, "name": "DC converter requested voltage"}
+    {"id": "EQA_CNVRTR_REQ_V", "path": "Battery", "fmt": { "len": 16, "max": 1638.375, "mul": 250, "div": 10000, "unit": "volts" }, "name": "DC converter requested voltage"}
   ]},
 { "hdr": "7E5", "dbg": true, "cmd": {"22": "6075"}, "freq": 1,
   "signals": [
-    {"id": "EQA_HV_V", "path": "Battery", "fmt": { "len": 16, "max": 100, "mul": 25, "div": 1000, "unit": "volts" }, "name": "HV battery voltage"}
+    {"id": "EQA_HV_V", "path": "Battery", "fmt": { "len": 16, "max": 1638.375, "mul": 25, "div": 1000, "unit": "volts" }, "name": "HV battery voltage"}
   ]},
 { "hdr": "7E5", "dbg": true, "cmd": {"22": "6502"}, "freq": 1,
   "signals": [
