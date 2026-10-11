@@ -5,10 +5,10 @@
   ]},
 { "hdr": "7E2", "dbg": true, "cmd": {"22": "2001"}, "freq": 1,
   "signals": [
-    {"id": "EQA_FL_VSS", "path": "Movement", "fmt": {           "len": 16, "max": 1000, "mul": 562.5, "div": 10000, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
-    {"id": "EQA_FR_VSS", "path": "Movement", "fmt": {"bix": 16, "len": 16, "max": 100,  "mul": 562.5, "div": 10000, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
-    {"id": "EQA_RL_VSS", "path": "Movement", "fmt": {"bix": 32, "len": 16, "max": 100,  "mul": 562.5, "div": 10000, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"},
-    {"id": "EQA_RR_VSS", "path": "Movement", "fmt": {"bix": 48, "len": 16, "max": 100,  "mul": 562.5, "div": 10000, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
+    {"id": "EQA_FL_VSS", "path": "Movement", "fmt": {           "len": 16, "max": 655.34, "div": 100, "nullmax": 655.34, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
+    {"id": "EQA_FR_VSS", "path": "Movement", "fmt": {"bix": 16, "len": 16, "max": 655.34, "div": 100, "nullmax": 655.34, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},
+    {"id": "EQA_RL_VSS", "path": "Movement", "fmt": {"bix": 32, "len": 16, "max": 655.34, "div": 100, "nullmax": 655.34, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"},
+    {"id": "EQA_RR_VSS", "path": "Movement", "fmt": {"bix": 48, "len": 16, "max": 655.34, "div": 100, "nullmax": 655.34, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]},
 { "hdr": "7E2", "dbg": true, "cmd": {"22": "2002"}, "freq": 1,
   "signals": [
