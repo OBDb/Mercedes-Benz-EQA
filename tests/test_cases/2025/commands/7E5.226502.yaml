@@ -5,4 +5,10 @@ test_cases:
   response: 7ED0762650200000E96
 - expected_values:
     EQA_HV_RANGE: 1000
+  response: 7ED0762650200004A75
+- expected_values:
+    EQA_HV_RANGE: 1000
+  response: 7ED0762650200004A76
+- expected_values:
+    EQA_HV_RANGE: 1000
   response: 7ED0762650200004A77
