@@ -1,0 +1,17 @@
+command_id: 7E5.226075
+test_cases:
+- expected_values:
+    EQA_HV_V: 12
+  response: 7ED0562607501E0
+- expected_values:
+    EQA_HV_V: 326
+  response: 7ED0562607532F0
+- expected_values:
+    EQA_HV_V: 360.8
+  response: 7ED056260753860
+- expected_values:
+    EQA_HV_V: 360.9
+  response: 7ED056260753864
+- expected_values:
+    EQA_HV_V: 362
+  response: 7ED056260753890

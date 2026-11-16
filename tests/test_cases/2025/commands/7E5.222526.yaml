@@ -1,0 +1,8 @@
+command_id: 7E5.222526
+test_cases:
+- expected_values:
+    EQA_HV_COOLANT_T: 13.75
+  response: 7ED05622526006E
+- expected_values:
+    EQA_HV_COOLANT_T: 26.875
+  response: 7ED0562252600D7

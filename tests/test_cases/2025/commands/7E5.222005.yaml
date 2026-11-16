@@ -1,0 +1,17 @@
+command_id: 7E5.222005
+test_cases:
+- expected_values:
+    EQA_AUX_V: 13.6102
+  response: 7ED0462200586
+- expected_values:
+    EQA_AUX_V: 14.32118
+  response: 7ED046220058D
+- expected_values:
+    EQA_AUX_V: 14.52431
+  response: 7ED046220058F
+- expected_values:
+    EQA_AUX_V: 14.62588
+  response: 7ED0462200590
+- expected_values:
+    EQA_AUX_V: 14.72745
+  response: 7ED0462200591

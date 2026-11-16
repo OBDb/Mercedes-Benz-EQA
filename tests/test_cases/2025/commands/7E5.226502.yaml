@@ -1,0 +1,8 @@
+command_id: 7E5.226502
+test_cases:
+- expected_values:
+    EQA_HV_RANGE: 1000
+  response: 7ED0762650200000E96
+- expected_values:
+    EQA_HV_RANGE: 1000
+  response: 7ED0762650200004A77

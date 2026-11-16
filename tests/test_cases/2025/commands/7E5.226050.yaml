@@ -1,0 +1,11 @@
+command_id: 7E5.226050
+test_cases:
+- expected_values:
+    EQA_HV_SOC: 48.43
+  response: 7ED0562605012EB
+- expected_values:
+    EQA_HV_SOC: 48.49
+  response: 7ED0562605012F1
+- expected_values:
+    EQA_HV_SOC: 95.29
+  response: 7ED056260502539
