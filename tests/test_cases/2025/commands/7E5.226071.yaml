@@ -1,0 +1,26 @@
+command_id: 7E5.226071
+test_cases:
+- expected_values:
+    EQA_CNVRTR_REQ_V: 151
+  response: 7ED056260711798
+- expected_values:
+    EQA_CNVRTR_REQ_V: 223.25
+  response: 7ED0562607122E2
+- expected_values:
+    EQA_CNVRTR_REQ_V: 223.3
+  response: 7ED0562607122E4
+- expected_values:
+    EQA_CNVRTR_REQ_V: 223.35
+  response: 7ED0562607122E6
+- expected_values:
+    EQA_CNVRTR_REQ_V: 223.4
+  response: 7ED0562607122E8
+- expected_values:
+    EQA_CNVRTR_REQ_V: 223.425
+  response: 7ED0562607122E9
+- expected_values:
+    EQA_CNVRTR_REQ_V: 233.1
+  response: 7ED05626071246C
+- expected_values:
+    EQA_CNVRTR_REQ_V: 233.175
+  response: 7ED05626071246F
